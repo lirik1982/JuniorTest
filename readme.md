@@ -17,7 +17,10 @@ Junior Python разработчик
 **Для запуска сервиса, нужно выполнить следующие действия:
 **
 - склонировать текущий репозиторий в локальную папку и выполнить команду:
-  _git clone https://github.com/lirik1982/JuniorTest.git_
+ ```cmd
+    _git clone https://github.com/lirik1982/JuniorTest.git_
+```
+  
 - в системе должна быть установлена программная платформа Docker,
   наберите в командной строке:
 - _docker-compose up_
