@@ -33,7 +33,7 @@ Junior Python разработчик
     http://localhost:8000/api/V1/deals
 ```
 Выполнить операцию, например, можно с помощью программы curl, выполнив команду:
- ```cmd
+```cmd
     curl --location --request POST http://localhost:8000/api/V1/deals -F "file=@deals.csv"
 ```
 При успешном выполнении будет получен ответ "response: OK"
