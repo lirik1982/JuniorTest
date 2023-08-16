@@ -35,7 +35,7 @@ Junior Python разработчик
 
 Выполнить операцию, например, можно с помощью программы curl, выполнив команду:
  ```cmd
-    git clone https://github.com/lirik1982/JuniorTest.git
+    curl --location --request POST http://localhost:8000/api/V1/deals -F "file=@deals.csv"
 ```
 
 
