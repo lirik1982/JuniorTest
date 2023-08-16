@@ -50,7 +50,7 @@ Junior Python разработчик
     http://localhost:8000/api/V1/deals
 ```
 * Выполнить операцию, например, можно с помощью программы curl, выполнив команду:
- ```cmd
+```cmd
     curl --location --request GET http://localhost:8000/api/V1/deals
 ```
 * Если действия верные будет получено поле response:
