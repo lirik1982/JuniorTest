@@ -18,7 +18,7 @@ Junior Python разработчик
 **
 - склонировать текущий репозиторий в локальную папку и выполнить команду:
  ```cmd
-    _git clone https://github.com/lirik1982/JuniorTest.git_
+    git clone https://github.com/lirik1982/JuniorTest.git
 ```
   
 - в системе должна быть установлена программная платформа Docker,
