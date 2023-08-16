@@ -20,8 +20,13 @@ Junior Python разработчик
  ```cmd
     git clone https://github.com/lirik1982/JuniorTest.git
 ```
-  
 - в системе должна быть установлена программная платформа Docker,
-  наберите в командной строке:
-- _docker-compose up_
+  перейдите в папку импортированного репозитория и наберите в командной строке:
+```cmd
+    docker-compose up
+```
+- будет выполнено развертывание docker-контейнеров с настроенными образами:
+    - django/drf
+    - postgresql
+    - redis   
   
